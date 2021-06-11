@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZAG_MDGM</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Message Class for MDG-M</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>No Material Number has been provided by the Interface</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Material Number &amp;1 does not exist in Table &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Error during Material Conversion for Material &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Plant View &amp;1 (&amp;2) has not been created yet</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Sales View &amp;1/&amp;2 (&amp;3) has not been created yet</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>No Calculation Segment created for Material &amp;1 / Plant &amp;2 / Variant &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Cost Calculation Error: Material not found &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Cost Calculation Error: Plant not found &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Technical Error during Costing Run for Material &amp;1 / Plant &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Mandatory Field &amp;1 has no value assigned for Plant &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Change Request &amp;1 has reached Status &quot;&amp;2&quot;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Mandatory Field &amp;1 is not assigned in Entity Type &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Material Group value is not allowed</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Source List is empty for Plant &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Mandatory field Region of Origin has no value assigned for Plant &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>MRP Controller value is invalid for Material &amp;1 / Plant &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Rounding Value must be greater or equal 1 for Material &amp;1 / Plant &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>MSCM inconsistent for change request &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>MSCM does not contain material &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>MSCM inconcistent with material &amp;1 and change request &amp;2 assignment</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Note: Standard Price and Moving Price are different for Plant &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>VGPA is not selected</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>Material Origin must not be selected for NSCs</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Material Origin and Costed with Quantity Structure must be selected</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>Valuation Area Plant not assigned for Plant &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>&amp;1, Plant &amp;2/Sales Org. &amp;3, Distr. Channel &amp;4 is not fully maintained</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>Please confirm that the routing has been created/updated in SAP</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>Routing not found - create routing in SAP before approving change request</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>Supplier related information should be maintained in info-record</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>Material &amp;1 cannot be changed as still pending in CR &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>BoM not found for material &amp;1 / plant &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>Change Request &amp;1 is missing work item id</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>Inforecord not found. Create inforecord in SAP before processing</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>033</MSGNR>
+     <TEXT>Base UoM was changed in Active Area. Please contact PLM-Team for support.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>No Supply Pattern found for Target Market &amp;1. Please contact IDO-Team.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>Please maintain the target market and confirm by pressing &quot;enter&quot;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>036</MSGNR>
+     <TEXT>No manufacturing plant defined for material &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>037</MSGNR>
+     <TEXT>Localizing CR &amp;3 already exists for material &amp;1 and target market &amp;2.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>038</MSGNR>
+     <TEXT>Country key &amp;1 not in use.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>039</MSGNR>
+     <TEXT>Supplying plant &amp;1 must have at least status 40 for processing.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>040</MSGNR>
+     <TEXT>The material &amp;1 is not set CAD Flag.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>041</MSGNR>
+     <TEXT>The target market &amp;1 is not valid.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>042</MSGNR>
+     <TEXT>Please reenter target market and confirm by pressing &quot;enter&quot;.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>043</MSGNR>
+     <TEXT>The plant &amp;1 must have status 30 for processing.Please contact IDO-Team.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>044</MSGNR>
+     <TEXT>Supplying plant &amp;1 does not exist in MARC.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_MDGM</ARBGB>
+     <MSGNR>045</MSGNR>
+     <TEXT>No supplying plant found.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
